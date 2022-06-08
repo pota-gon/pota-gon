@@ -100,24 +100,24 @@ https://tortoisegit.org/download/
 
 <img src="TortoiseGit/9.png" width="50%">
 
-### 4-2. 説明
+### 4-3. 説明
 『次へ(N)』を選択
 
 <img src="TortoiseGit/10.png" width="50%">
 
-### 4-3. Git のパス設定
+### 4-4. Git のパス設定
 1.『C:\Program Files\Git\bin』のように [Git インストール](Git.md) でインストールしたパスが指定されていればOK  
 2. 設定したら『次へ(N)』を選択
 
 <img src="TortoiseGit/11.png" width="50%">
 
-### 4-3. Git の名前とメール設定
+### 4-5. Git の名前とメール設定
 1. 名前とメールを設定します。メールを送信したりするわけではないので、架空のメールアドレスでもOK。  
 2. 設定したら『次へ(N)』を選択
 
 <img src="TortoiseGit/12.png" width="50%">
 
-### 4-4. リモート用の設定
+### 4-6. リモート用の設定
 変更の必要はないので、『完了』を選択
 
 <img src="TortoiseGit/13.png" width="50%">
