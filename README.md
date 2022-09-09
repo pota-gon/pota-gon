@@ -30,7 +30,7 @@ RPGツクールMV関連の制作物
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/pota-gon/pota-gon/main/GenerateWorld.jpg" width=360px></td>
-    <td><strong>ワールド生成テスト pre1.0.7(2022/4/1)</strong><br><br>「RPGツクールMZ」上で動作する<br>『ワールド自動生成プラグイン』のテストプロジェクトです。<br><br><a href="https://game.nicovideo.jp/atsumaru/games/gm22870">プレイ(ゲームアツマール)</a> | <a href="https://github.com/pota-gon/pota-gon/blob/main/GenerateWorld.md">バグ報告・要望の対応状況</a></td>
+    <td><strong>ワールド生成テスト pre1.0.8(2022/9/4)</strong><br><br>「RPGツクールMZ」上で動作する<br>『ワールド自動生成プラグイン』のテストプロジェクトです。<br><br><a href="https://game.nicovideo.jp/atsumaru/games/gm22870">プレイ(ゲームアツマール)</a> | <a href="https://github.com/pota-gon/pota-gon/blob/main/GenerateWorld.md">バグ報告・要望の対応状況</a></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/pota-gon/pota-gon/main/MZAtsumaru.png" width=360px></td>
