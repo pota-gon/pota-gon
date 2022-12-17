@@ -8,7 +8,6 @@
 |-|-|
 |[Twitter](https://twitter.com/pota_gon)|基本、あんまり呟かないけど、たまに有益なツイートをします。|
 |[Ci-en](https://ci-en.net/creator/14666)|ゲ制ニュースしか書いてないけど、興味ある人はぜひ！|
-|[進捗ノート](https://shinchoku.net/users/pota_gon)|ワールド自動生成プラグインの進捗追い込み用。受験生のような気持ち。社会人だけど。|
 
 ## RPGツクールMZ
 RPGツクールMV関連の制作物
