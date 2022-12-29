@@ -16,7 +16,7 @@ RPGツクールMV関連の制作物
 |-|-|
 |[RPGツクールMZのプラグイン](https://github.com/pota-gon/RPGMakerMZ/wiki)|ポテトードラゴンが作成したRPGツクールMZのプラグイン|
 |[RPGツクールMZのプラグイン一覧](https://docs.google.com/spreadsheets/d/1wQWUWbQOzVgQemhJiecPU3RutHKOk3APpXrJqIi8Iy8/edit?usp=sharing)|RPGツクールMZのプラグイン一覧(Googleスプレッドシートで作成)|
-|[RPGツクールMZで nw.js が残り続ける問題の解決方法](https://github.com/pota-gon/pota-gon/blob/main/MZ/nw/nw.md)|RPGツクールMZ の NW.js 差し替え方法のまとめ(NW.js のバージョンによる影響が高いと推定)|
+|[RPGツクールMZで NW.js が残り続ける問題の解決方法](https://github.com/pota-gon/pota-gon/blob/main/MZ/nw/nw.md)|RPGツクールMZ の NW.js 差し替え方法のまとめ(NW.js のバージョンによる影響が高いと推定)|
 |[コピペから始めるMZプラグイン講座](https://github.com/pota-gon/MZCourse/blob/main/README.md)|初心者を対象としたRPGツクールMZプラグイン開発講座|
 |[MZ のタイルセットサンプル](https://github.com/pota-gon/pota-gon/tree/main/MZ/Tilesets)|MZ のタイルセット設定のサンプルです。|
 
