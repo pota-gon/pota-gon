@@ -12,7 +12,7 @@
 * [DropBox](OnlineStorage.md#DropBox)
 * [OneDrive](OnlineStorage.md#OneDrive)
 * [GoogleDrive](OnlineStorage.md#GoogleDrive)
-* [TeraCloud](OnlineStorage.md#TeraCloud)
+* [InfiniCloud](OnlineStorage.md#InfiniCloud)
 
 ### 無料容量比較
 オンラインストレージは、容量に上限があります。
@@ -26,7 +26,7 @@
 |DropBox|2GB|200MB ～ |元祖、オンラインストレージ。作業スペースとしておすすめ<br>『選択型同期』で保存するファイルを選べるのも魅力<br>https://www.dropbox.com/login|
 |OneDrive|5GB|100MB ～ |Windows10標準搭載、二段階認証できるフォルダ(個人用 Vault)が使える<br>https://www.microsoft.com/ja-jp/microsoft-365/onedrive/download|
 |GoogleDrive|15GB|100MB ～ |Googleアカウントを3つまで使えるので、実質 45GB まで使用可能。<br>ただし、ゴミ箱も容量に加算されるので注意<br>https://www.google.com/intl/ja_jp/drive/|
-|TeraCloud|10GB|Air Live Drive 使用時(100MB ～)|国内のサーバーに保存される。紹介ボーナスの上限が1TB<br>定期的に容量を増加するキャンペーンが実施される。<br>https://teracloud.jp/ja/|
+|InfiniCloud|10GB|Air Live Drive 使用時(100MB ～)|国内のサーバーに保存される。紹介ボーナスの上限が1TB<br>定期的に容量を増加するキャンペーンが実施される。<br>https://infini-cloud.net/ja/|
 
 ## DropBox
 元祖、オンラインストレージ。  
@@ -72,8 +72,8 @@ Google のオンラインストレージです。Googleアカウント が必要
 アプリのダウンロードは以下から、Google アカウントが必要です。  
 https://www.google.com/intl/ja_jp/drive/
 
-## TeraCloud
-テラクラウド株式会社(日本の会社)のオンラインストレージ。  
+## InfiniCloud
+InfiniCloud株式会社(日本の会社)のオンラインストレージ。  
 容量は『10GB』ですが、キャンペーンで1年間容量追加があるため、実際にはもう少し使えます。
 
 専用アプリがないため、Webブラウザ上での操作が基本となります。  
@@ -84,7 +84,7 @@ https://www.google.com/intl/ja_jp/drive/
 作業スペースというよりバックアップとして使うことをおすすめします。
 
 登録とアプリのダウンロードは以下から、独自のアカウントが必要です。  
-https://teracloud.jp/ja/
+https://infini-cloud.net/ja/
 
 ### Air Live Drive
 Windows 専用ですが、『Air Live Drive』というアプリを使用すれば  
@@ -93,9 +93,9 @@ Webブラウザだけでなく、他のオンラインストレージと同様�
 **・Air Live Drive Basic(無料版)**  
 https://www.lifeboat.jp/products/aldp/aldb.php
 
-#### TeraCloud の許可設定方法
+#### InfiniCloud の許可設定方法
 窓の杜の記事が分かりやすいので、そちらを参照してください。  
 連携することで『50GB』の容量(1年間有効)が貰えます。※ 2022/2/9 時点
 
-**・オンラインストレージ50GBが1年無料でもらえる！ 「TeraCLOUD」と「Air Live Drive Basic」の連携で - 窓の杜**  
+**・オンラインストレージ50GBが1年無料でもらえる！ 「InfiniCloud」と「Air Live Drive Basic」の連携で - 窓の杜**  
 https://forest.watch.impress.co.jp/docs/news/1341425.html
