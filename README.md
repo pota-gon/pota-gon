@@ -8,7 +8,6 @@
 |-|-|
 |[Twitter](https://twitter.com/pota_gon)|基本、あんまり呟かないけど、たまに有益なツイートをします。|
 |[Ci-en](https://ci-en.net/creator/14666)|ゲ制ニュースしか書いてないけど、興味ある人はぜひ！|
-|[くるっぷ](https://crepu.net/user/pota_gon)|Twitterで何かあった時の退避用。集中したいときもこちらをメインに対応する予定|
 
 ## RPGツクールMZ
 RPGツクールMV関連の制作物
