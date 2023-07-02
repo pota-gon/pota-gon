@@ -25,4 +25,4 @@ RPGツクールMV関連の制作物
 
 |分類|説明|
 |-|-|
-|[2003BGMの日本語タイトル対応表](https://github.com/pota-gon/pota-gon/blob/main/2003.md)|2003リメイクBGMの日本語タイトル対応表|
+|[RPGツクールMV(2003リメイク)の日本語タイトル対応表](https://github.com/pota-gon/pota-gon/blob/main/2003.md)|RPGツクール2003のBGM日本語対応表です。|
