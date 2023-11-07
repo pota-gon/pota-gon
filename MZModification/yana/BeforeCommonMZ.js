@@ -1,5 +1,5 @@
 //
-//  発動前コモン ver1.02
+//  発動前コモン ver1.03
 //
 // ------------------------------------------------------
 // Copyright (c) 2016 Yana
@@ -11,19 +11,21 @@
 //
 
 var Imported = Imported || {};
-Imported['BeforeCommon'] = 1.02;
+Imported['BeforeCommonMZ'] = 1.03;
 
 /*:
- * @plugindesc ver1.02/スキルやアイテムの発動前に、スキルやアイテムに設定されたコモンイベントを発生させます。
+ * @plugindesc ver1.03/スキルやアイテムの発動前に、スキルやアイテムに設定されたコモンイベントを発生させます。
  * @target MZ
  * @author Yana
  *
  * @param IndexVariableID
+ * @type variable
  * @desc 発動者のインデックスを保存する変数IDです。
  * 発動者がエネミーの場合は値に+1000されます。
  * @default 11
  *
  * @param TargetIndexVariableID
+ * @type variable
  * @desc 対象のインデックスを保存する変数IDです。
  * 対象が2体以上の場合は変数の値は-1が設定されます。
  * @default 12
@@ -61,6 +63,8 @@ Imported['BeforeCommon'] = 1.02;
  * 素材利用は自己責任でお願いします。
  * ------------------------------------------------------
  * 更新履歴:
+ * ver1.03:
+ * エラー対応。プラグインパラメータの変数をリストから選択できるように修正。
  * ver1.02:
  * MZに対応。
  * ver1.01:
@@ -76,7 +80,7 @@ Imported['BeforeCommon'] = 1.02;
 
     ////////////////////////////////////////////////////////////////////////////////////
 
-    var parameters = PluginManager.parameters('BeforeCommon');
+    var parameters = PluginManager.parameters('BeforeCommonMZ');
     var indexVariableId = Number(parameters['IndexVariableID']);
     var targetIndexVariableId = Number(parameters['TargetIndexVariableID']) || 0;
 
