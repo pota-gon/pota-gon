@@ -9,9 +9,13 @@ NW.js の差し替え方法について説明します。
 |---|---|---|
 |1.0.0 ～ 1.1.1|0.44.5|(1) M1チップ搭載のMac機種にて強制終了する<br>(2) Big Surにて画面が表示されなくなる|
 |1.2.0|0.51.0|NW.js が残り続ける|
-|1.2.1 ～ 1.5.0|0.48.4|NW.js が残り続ける|
-|1.6.0|0.69.1|一部の環境で「テストプレイ」「バトルテスト」「デプロイメントしたアプリ」が起動しない<br>・macOS10.15以前(node.js v18.10.0 になったことが原因)|
+|1.2.1 ～ 1.5.0|0.48.4|NW.js が残り続ける<br>macOS 11(Big Sur)以降のMacにおいて動作が不安定になる(2024年10月23日現在最新版である0.93.0は、Big Sur以降のmacOSにおいてより安定して動作)|
+|1.6.0|0.69.1|一部の環境で「テストプレイ」「バトルテスト」「デプロイメントしたアプリ」が起動しない<br>macOS10.15以前(node.js v18.10.0 になったことが原因)|
 |1.6.1 ～ 1.8.1|0.48.4|NW.js が残り続ける|
+
+## Macの手順について
+Macの手順については、公式様より手順が公開されています。  
+https://rpgtkool.hatenablog.com/entry/2024/10/23/140944
 
 以下、目次から確認したい項目を選択してください
 
@@ -31,8 +35,7 @@ NW.jsを最新版へ差し替える方法を説明します。
 https://nwjs.io/downloads/
 
 ### 2.『SDK』を選択
-『SDK』を選択してください。  
-※ Mac の場合は、「Mac OS X 64-bit」 の横にある『SDK』を選択してください。
+『SDK』を選択してください。
 
 <img src="nw.png" width="75%">
 
@@ -41,8 +44,7 @@ https://nwjs.io/downloads/
 もし、忘れた場合でも再度、RPGツクールMZ を再インストールすれば、元に戻せます。
 
 * ストア版: C:\Program Files\KADOKAWA\RPGMZ\nwjs-win
-* Steam版: C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win  
-※ Mac は、同じ階層にある nwjs-mac を差し替えてください。
+* Steam版: C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win
 
 ### 4. ダウンロードしたZIPファイルを解凍
 ダウンロードしたZIPファイルを解凍します。
@@ -50,15 +52,13 @@ https://nwjs.io/downloads/
 ### 5. 解凍したフォルダ名称を変更します
 解凍したフォルダ名称を以下のように変更してください。
 
-* Windows: 『nwjs-sdk-v0.59.0-win-x64』 => nwjs-win
-* Mac: 『nwjs-sdk-v0.59.0-osx-x64』 => nwjs-mac
+* 『nwjs-sdk-v0.59.0-win-x64』 => nwjs-win
 
 ### 6. フォルダを差し替え
 以下のフォルダを差し替えてください。これで完了です。
 
 * ストア版: C:\Program Files\KADOKAWA\RPGMZ\nwjs-win
-* Steam版: C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win  
-※ Mac は、同じ階層にある nwjs-mac を差し替えてください。
+* Steam版: C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win
 
 ---
 
@@ -79,16 +79,14 @@ https://nwjs.io/downloads/
 ![](before.png)
 
 ### 4. 以下ファイルをダウンロード
-* Windows:『nwjs-sdk-v0.44.5-win-x64.zip』
-* Mac:『nwjs-sdk-v0.44.5-osx-x64.zip』
+* 『nwjs-sdk-v0.44.5-win-x64.zip』
 
 ### 5. 差し替えるフォルダをバックアップ
 以下のフォルダをバックアップしておいてください。  
 もし、忘れた場合でも再度、RPGツクールMZ を再インストールすれば、元に戻せます。
 
 * ストア版: C:\Program Files\KADOKAWA\RPGMZ\nwjs-win
-* Steam版: C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win  
-※ Mac は、同じ階層にある nwjs-mac を差し替えてください。
+* Steam版: C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win
 
 ### 6. ダウンロードしたZIPファイルを解凍
 ダウンロードしたZIPファイルを解凍します。
@@ -96,15 +94,13 @@ https://nwjs.io/downloads/
 ### 7. 解凍したフォルダ名称を変更します
 解凍したフォルダ名称を以下のように変更してください。
 
-* Windows: 『nwjs-sdk-v0.44.5-win-x64』 => nwjs-win
-* Mac: 『nwjs-sdk-v0.44.5-osx-x64』 => nwjs-mac
+* 『nwjs-sdk-v0.44.5-win-x64』 => nwjs-win
 
 ### 8. フォルダを差し替え
 以下のフォルダを差し替えてください。これで完了です。
 
 * ストア版: C:\Program Files\KADOKAWA\RPGMZ\nwjs-win
-* Steam版: C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win  
-※ Mac は、同じ階層にある nwjs-mac を差し替えてください。
+* Steam版: C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win
 
 ---
 
