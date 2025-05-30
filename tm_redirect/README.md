@@ -24,7 +24,7 @@ https://github.com/pota-gon/pota-gon/raw/refs/heads/main/tm_redirect/tm_redirect
   - manifest.json
   - redirect.js
 
-**・3. 適当な場所にフォルダに配置**
+**・3. 適当な場所にフォルダに配置**  
 私は以下に配置してますが、どこでもOKです。  
 ただし、このフォルダは削除しないようにしてください。削除すると動かなくなります。  
 tm_redirect.zipの方はいらないので削除して大丈夫です。
