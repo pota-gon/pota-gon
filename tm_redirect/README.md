@@ -26,10 +26,10 @@ https://github.com/pota-gon/pota-gon/raw/refs/heads/main/tm_redirect/tm_redirect
 
 **・3. 適当な場所にフォルダに配置**  
 私は以下に配置してますが、どこでもOKです。  
+C:\Users\ユーザー名\Documents\ツクマテ\tm_redirect
+
 ただし、このフォルダは削除しないようにしてください。削除すると動かなくなります。  
 tm_redirect.zipの方はいらないので削除して大丈夫です。
-
-C:\Users\ユーザー名\Documents\ツクマテ\tm_redirect
 
 **・4. Google Chorme を起動します**  
 インストールしていない人は以下の公式サイトからインストールしてください。  
