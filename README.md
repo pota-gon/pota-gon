@@ -6,7 +6,7 @@
 
 |分類|説明|
 |-|-|
-|[Twitter](https://twitter.com/pota_gon)|基本、あんまり呟かないけど、たまに有益なツイートをします。|
+|[Twitter](https://x.com/pota_gon)|基本、あんまり呟かないけど、たまに有益なツイートをします。|
 |[Ci-en](https://ci-en.net/creator/14666)|ゲ制ニュースしか書いてないけど、興味ある人はぜひ！|
 
 ## RPGツクールMZ
